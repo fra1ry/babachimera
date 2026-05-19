@@ -1,6 +1,6 @@
 @font-face {
-  font-family: myFont; /* set name */
-  src: url(assets/Trattatello.ttf); /* url of the font */
+    font-family: 'trattatello';
+    src: url('/Trattatello/.ttf');
 }
 
 body {
@@ -121,6 +121,7 @@ model-viewer::part(default-ar-button) {
 }
 
 #about-layer {
+  font-family: 'trattatello';
   position: fixed;
   inset: 0;
   z-index: 8;
