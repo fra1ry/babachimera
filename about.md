@@ -1,13 +1,1 @@
-# Bába 
-
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
-
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
-
-
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
+Bába is the weaver of the deepest of shame, the embodiment of Arachne's and the eastern European Vasorrú Bába's daughter. She appears at night, crawling up on your chest, when you are in the mystic space between dreaming and being awake, she spins silk from the shame in your heart and throat. You shall not be afraid, she is working for you, alchemising feelings that eat away your ability to show up for yourself. Once you wake up, you will find yourself in a bewitched state, lustful for life, feeling light again. 
