@@ -1,3 +1,8 @@
+@font-face {
+  font-family: myFont; /* set name */
+  src: url(assets/Trattatello.ttf); /* url of the font */
+}
+
 body {
   margin: 0;
   height: 100vh;
